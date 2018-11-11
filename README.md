@@ -10,3 +10,4 @@ Proof of concept for projects with ethereum
 - [https://solidity.readthedocs.io/en/develop/](https://solidity.readthedocs.io/en/develop/)
 - [https://www.ethereum.org/greeter](https://www.ethereum.org/greeter)
 - [https://remix.ethereum.org/](https://remix.ethereum.org/)
+- [http://ethereumdapps.net/](http://ethereumdapps.net/)
