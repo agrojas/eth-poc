@@ -19,13 +19,10 @@ contract KittyInterface {
 
 contract ZombieFeeding is ZombieFactory {
 
-  // 1. Remove this:
-  // 2. Change this to just a declaration:
   KittyInterface kittyContract;
 
-  // 3. Add setKittyContractAddress method here
-
-  function setKittyContractAddress(address _address) external {
+  // Modify this function:
+  function setKittyContractAddress(address _address) external onlyOwner {
     kittyContract = KittyInterface(_address);
   }
 
